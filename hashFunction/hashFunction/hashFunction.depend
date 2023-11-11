@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699684609 source:d:\nti\codeblocks\hashfunction\hashfunction\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
